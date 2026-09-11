@@ -47,11 +47,6 @@ A meal planning web app.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeddy1234&show_icons=true&theme=dracula&hide_title=true" alt="zeddy1234's GitHub stats" />
-</div>
 
 ## Contact
 

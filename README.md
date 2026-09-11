@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:00F0FF,100:FF2E9A&text=Bhushan%20Munde&fontAlignY=38&fontSize=40&fontColor=39FF14&animation=fadeIn&section=header" alt="Header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:282A36,50:FF5555,100:BD93F9&text=Bhushan%20Munde&fontAlignY=38&fontSize=40&fontColor=F8F8F2&animation=fadeIn&section=header" alt="Header banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=600&lines=Building+agentic+AI+tools;MS+Information+Science+%40+Pitt;Ex-Founder%2C+Zeddy+Gaming+(200K%2B+users)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF5555&background=282A36&center=true&vCenter=true&width=600&lines=Building+agentic+AI+tools;MS+Information+Science+%40+Pitt;Ex-Founder%2C+Zeddy+Gaming+(200K%2B+users)" alt="Typing SVG" />
 
 </div>
 
@@ -43,7 +43,7 @@ especially in education.
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeddy1234&show_icons=true&theme=neon&hide_title=true" alt="zeddy1234's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeddy1234&show_icons=true&theme=dracula&hide_title=true" alt="zeddy1234's GitHub stats" />
 </div>
 
 ## Contact

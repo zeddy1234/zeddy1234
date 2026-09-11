@@ -24,10 +24,17 @@ especially in education.
 
 ## Featured Projects
 
-- 🔫 [**ZE_Source-Engine**](https://github.com/zeddy1234/ZE_Source-Engine) — SourcePawn/SourceMod plugins for the CS:GO Zombie Escape server behind Zeddy Gaming; organized by category (hud/gameplay/admin/mapvoting/chat/store/core), documented plugin-by-plugin.
-- 🔍 [**Search-Engine**](https://github.com/zeddy1234/Search-Engine) — Similarity search over 97K+ Steam games using TF-IDF + cosine similarity (vector space model).
-- 🌐 [**Network-Science-Project**](https://github.com/zeddy1234/Network-Science-Project) — Measuring the impact of average Google navigation on time saved.
-- 🍽️ [**Meal-Planner**](https://github.com/zeddy1234/Meal-Planner) — Vue-based meal planning app.
+**[ZE_Source-Engine](https://github.com/zeddy1234/ZE_Source-Engine)** `SourcePawn`
+SourceMod plugins for the CS:GO Zombie Escape server behind Zeddy Gaming — organized by category (hud/gameplay/admin/mapvoting/chat/store/core), documented plugin-by-plugin.
+
+**[Search-Engine](https://github.com/zeddy1234/Search-Engine)** `Python`
+Similarity search over 97K+ Steam games using TF-IDF + cosine similarity (vector space model).
+
+**[Network-Science-Project](https://github.com/zeddy1234/Network-Science-Project)** `Python`
+Measuring the impact of average Google navigation on time saved.
+
+**[Meal-Planner](https://github.com/zeddy1234/Meal-Planner)** `Vue`
+A meal planning web app.
 
 ## Tech Stack
 

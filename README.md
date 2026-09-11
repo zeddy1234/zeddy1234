@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+agentic+AI+tools;MS+Information+Science+%40+Pitt;Ex-Founder%2C+Zeddy+Gaming+(200K%2B+users)" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:00F0FF,100:FF2E9A&text=zeddy1234&fontAlignY=38&fontSize=40&fontColor=39FF14&animation=fadeIn&section=header" alt="Header banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=600&lines=Building+agentic+AI+tools;MS+Information+Science+%40+Pitt;Ex-Founder%2C+Zeddy+Gaming+(200K%2B+users)" alt="Typing SVG" />
 
 </div>
 
@@ -10,15 +12,15 @@ Data/AI-focused engineer, recently finished an M.S. in Information Science at Pi
 Exploring agentic AI tooling and looking at AI-driven digital transformation work,
 especially in education.
 
-## 🎮 Career Quest Log
+<div align="center">
 
-| Status | Role | Run Details |
-|---|---|---|
-| ✅ Cleared | 🛠️ Software Engineer Intern — **XOPS** | Summer 2025 |
-| 🏆 Boss Defeated | 🎮 Founder — **Zeddy Gaming** | 2016–2022 · 200K+ players onboarded |
-| 🎓 Achievement Unlocked | **M.S. Information Science** — University of Pittsburgh | Dec 2025 |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeddy1234/zeddy1234/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeddy1234/zeddy1234/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zeddy1234/zeddy1234/output/github-contribution-grid-snake.svg" />
+</picture>
 
-> *Scouting the next quest — agentic AI + digital transformation in edtech.*
+</div>
 
 ## Featured Projects
 
@@ -41,7 +43,7 @@ especially in education.
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeddy1234&show_icons=true&theme=default&hide_title=true" alt="zeddy1234's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeddy1234&show_icons=true&theme=neon&hide_title=true" alt="zeddy1234's GitHub stats" />
 </div>
 
 ## Contact

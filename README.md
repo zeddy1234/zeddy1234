@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:00F0FF,100:FF2E9A&text=zeddy1234&fontAlignY=38&fontSize=40&fontColor=39FF14&animation=fadeIn&section=header" alt="Header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:00F0FF,100:FF2E9A&text=Bhushan%20Munde&fontAlignY=38&fontSize=40&fontColor=39FF14&animation=fadeIn&section=header" alt="Header banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=600&lines=Building+agentic+AI+tools;MS+Information+Science+%40+Pitt;Ex-Founder%2C+Zeddy+Gaming+(200K%2B+users)" alt="Typing SVG" />
 
